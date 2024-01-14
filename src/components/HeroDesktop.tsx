@@ -1,7 +1,9 @@
-const VersionDesktop = () => {
+const HeroDesktop = () => {
   return (
-    <div style={{ background: 'skyblue', height: '30rem' }}>VersionDesktop</div>
+    <div style={{ background: 'skyblue', height: '30rem' }}>
+      Hero versión desktop
+    </div>
   )
 }
 
-export default VersionDesktop
+export default HeroDesktop

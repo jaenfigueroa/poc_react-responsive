@@ -1,7 +1,9 @@
-const VersionMobile = () => {
+const HeroMobile = () => {
   return (
-    <div style={{ background: 'pink', height: '30rem' }}>VersionMobile</div>
+    <div style={{ background: 'pink', height: '30rem' }}>
+      hero versión mobile
+    </div>
   )
 }
 
-export default VersionMobile
+export default HeroMobile
